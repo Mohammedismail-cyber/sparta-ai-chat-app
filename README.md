@@ -2,7 +2,7 @@
 
 # ⚡ Sparta AI — Local AI Chat App
 
-**A private, self-contained AI studio running 100% on your machine.**  
+**A private, self-contained AI studio running 100% on your local machine.**  
 *Zero external API calls. No subscriptions. No cloud trackers. Pure PHP, SQLite, and local intelligence.*
 
 [![PHP Version](https://img.shields.io/badge/PHP-8.1%2B-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
