@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Sparta — Local AI Chat App
+# ⚡ Sparta AI — Local AI Chat App
 
 **A private, self-contained AI studio running 100% on your machine.**  
 *Zero external API calls. No subscriptions. No cloud trackers. Pure PHP, SQLite, and local intelligence.*
