@@ -1,0 +1,28 @@
+# Sparta Local AI Chat App - .gitignore
+
+# Data and SQLite databases
+ai-chat-app/data/*.sqlite
+ai-chat-app/data/*.sqlite-*
+ai-chat-app/data/models.cache.json
+ai-chat-app/data/pull-*
+ai-chat-app/data/image-runtime.fail
+ai-chat-app/data/image-backend.*
+ai-chat-app/data/image-*.png
+ai-chat-app/data/image-models/
+ai-chat-app/data/artifacts/*/*.html
+
+# User Uploads
+ai-chat-app/uploads/*/
+!ai-chat-app/uploads/.gitkeep
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+
+# System & Editor Files
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/

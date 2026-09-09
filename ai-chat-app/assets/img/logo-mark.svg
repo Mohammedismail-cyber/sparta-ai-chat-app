@@ -1,0 +1,6 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Sparta">
+  <rect width="100" height="100" rx="24" fill="#0d0d0d"/>
+  <path d="M 71 25 L 29 25 L 58 50 L 29 75 L 71 75"
+    fill="none" stroke="#ffffff" stroke-width="13"
+    stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

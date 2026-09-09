@@ -1,0 +1,11 @@
+data/*.sqlite
+data/*.sqlite-*
+data/models.cache.json
+data/pull-*
+data/image-runtime.fail
+data/image-backend.*
+data/image-*.png
+data/image-models/
+data/artifacts/*/*.html
+uploads/*/
+.DS_Store
